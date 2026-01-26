@@ -1,0 +1,8 @@
+payment_id,order_id,payment_mode,payment_status
+5001,1001,UPI,Success
+5002,1002,Credit Card,Success
+5003,1003,Net Banking,Success
+5004,1004,Debit Card,Success
+5005,1005,UPI,Success
+5006,1006,Credit Card,Success
+5007,1007,UPI,Success
